@@ -14,10 +14,6 @@ agent安装地方有网络限制 没法入网
 ![](./s1.png)
 
 协议实现
-- TCP
-- UDP
 - KCP
-- HTTP / HTTPS
 - DNS
-- websocket
 - ICMP 
